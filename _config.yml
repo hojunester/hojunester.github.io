@@ -13,7 +13,7 @@ title:            Hojunester
 tagline:          'A New Blog'
 url:              https://hojunester.github.io
 shorturl:         hojunester.github.io
-paginate:         1
+paginate:         5
 baseurl:          /
 
 author:
