@@ -10,5 +10,7 @@ I am a South Korean teenager, currently attending high school. Even though I pla
 This is a new blog, as the page title suggests. Here, I will be posting things that I want to share with other students that might be helpful for their studies, my own reviews, and other random posts that I feel inclined to share with the world. Sorry about the lack of comments - I'll figure that out later. As of now, if you want to contact me, please find me using the information below.
 
 You can contact me at hojunester@gmail.com.
+
 If you want help translating your app, find me at [crowdin](https://crowdin.com/profile/hojunester).
+
 My old blog is over at [http://hojunester.wordpress.com](http://hojunester.wordpress.com).
