@@ -3,28 +3,12 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+![my face](https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/p417x417/301774_228948567220918_2039018596_n.jpg?oh=eb72d3ab12c5671424c0edcb68766817&oe=545CA26A&__gda__=1417809485_d98b477cdd599d50cf71cba3edb38378)
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I am a South Korean teenager, currently attending high school. Even though I plan to major in East Asian History, I know a little bit of coding, and interested in all things IT. I use Arch Linux as my main OS. My English skills are far superior to my coding skills, so I'm helping out in several open source projects as a translator (English -> Korean).
 
-There are currently two themes built on Poole:
+This is a new blog, as the page title suggests. Here, I will be posting things that I want to share with other students that might be helpful for their studies, my own reviews, and other random posts that I feel inclined to share with the world. Sorry about the lack of comments - I'll figure that out later. As of now, if you want to contact me, please find me using the information below.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+You can contact me at hojunester@gmail.com.
+If you want help translating your app, find me at [crowdin](https://crowdin.com/profile/hojunester).
+My old blog is over at [http://hojunester.wordpress.com](http://hojunester.wordpress.com).
